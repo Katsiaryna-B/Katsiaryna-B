@@ -8,6 +8,7 @@ I am Katsiaryna (aka **Kate**) and I am a (very) **Junior Data Analyst** from Be
 
 
 ###
+🛠️ What I know:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="90" alt="python logo"  />
@@ -17,11 +18,17 @@ I am Katsiaryna (aka **Kate**) and I am a (very) **Junior Data Analyst** from Be
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="90" alt="mysql logo"  />
 </div>
 
+
+
+###
+📈 My Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=katsiaryna-b&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katsiaryna-b&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
-
+Connect with me:
 <div align="left">
   <a href="katsiaryna_38967" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -34,5 +41,4 @@ I am Katsiaryna (aka **Kate**) and I am a (very) **Junior Data Analyst** from Be
   </a>
 </div>
 
-###
 ###
