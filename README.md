@@ -4,8 +4,9 @@ I am Katsiaryna (aka **Kate**) and I am a (very) **Junior Data Analyst** from Be
 
 - 🧬 I have background in Molecular Oncology and experience in analysis of Big Data derived from biological systems.
 
-- 💻 I’m currently learning MySQL and Python aiming to become data analyst.
+- 💻 I’m currently learning Python and other tools aiming to become data analyst.
 
+- Here is an example project I did https://github.com/Katsiaryna-B/epicode_consegna/tree/main/BuildWeek3 I analyzed greenhouse gas emissions and the strategies adopted by EU countries to reduce their emissions. An interactive dashboard was created using Power BI.
 
 ###
 🛠️ **What I know:**
