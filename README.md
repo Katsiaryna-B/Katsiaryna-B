@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Katsiaryna (aka **Kate**) and I am a (very) **Junior Data Analyst** from Belarus, currently living in Milan (Italy).
+I am Katsiaryna (aka **Kate**) and I am a (very) **Junior Data Analyst** from Belarus, currently living somewhere near Milan (Italy).
 
 - 🧬 I have background in Molecular Oncology and experience in analysis of Big Data derived from biological systems.
 
