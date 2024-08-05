@@ -10,7 +10,7 @@ I am Katsiaryna (aka **Kate**) and I am a (very) **Junior Data Analyst** from Be
 
 - **Google Looker**: example project all-by-myself: from data collection to analysis and visualisation https://lookerstudio.google.com/reporting/785548c0-671e-4962-8116-6bbdf73de721
 
-- **Board games analysis** (ongoing): in this project i decided to combine my two passions - board games and data analysis. I imagined that I am a consultant for the investors who need to decide whether to invest money in the releases of new board games. I have formulated several questions that might help them to make a decision. Disclaimer: of course, I am biased and want more games to be released!!!😁. 
+- **Board games analysis** (ongoing): https://github.com/Katsiaryna-B/BoardGames/tree/main/BG_analysis In this project I have decided to combine my two passions - board games and data analysis. I imagined that I am a consultant for the investors who need to decide whether to invest money in the releases of new board games. I have formulated several questions that might help them to make a decision. Disclaimer: of course, I am biased and want more games to be released!!!😁. 
 
 ###
 🛠️ **What I know:**
