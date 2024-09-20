@@ -6,7 +6,7 @@ I am Katsiaryna (aka **Kate**) and I am a (very) **Junior Data Analyst** from Be
 
 - 💻 I’m currently learning Python and other tools aiming to become data analyst.
 
-- Here is an example project I did in **Power BI**:  https://github.com/Katsiaryna-B/epicode_consegna/tree/main/BuildWeek3 I analyzed greenhouse gas emissions and the strategies adopted by EU countries to reduce their emissions. An interactive dashboard was created using Power BI Desktop.
+- Here is an example project I did in **Power BI**:  https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Analisi-delle-emissioni-di-gas-serra-nei-paesi-europei/m-p/4154238#M13132 I analyzed greenhouse gas emissions and the strategies adopted by EU countries to reduce their emissions. An interactive dashboard was created using Power BI Desktop.
 
 - **Google Looker**: example project all-by-myself: from data collection to analysis and visualisation https://lookerstudio.google.com/reporting/785548c0-671e-4962-8116-6bbdf73de721
 
