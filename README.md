@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Katsiaryna (aka **Kate**) and I am a (very) **Junior Data Analyst** from Belarus, currently living somewhere near Milan (Italy).
+I am Katsiaryna (aka **Kate**) and I am **Data Scientist** from Belarus, currently living somewhere near Milan (Italy).
 
-- 🧬 I have background in Molecular Oncology and experience in analysis of Big Data derived from biological systems.
+- 🧬 I have solid background in Molecular Oncology and experience in analysis of Big Data derived from biological systems.
 
-- 💻 I’m currently learning Python and other tools aiming to become data analyst.
+- 💻  I recently transitioned to a full-time **Data Scientist** role, where I am continuously expanding my skills and experience in the exciting field of **GenAI-based solutions** for business.  
 
 - Here is an example project I did in **Power BI**:  https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Analisi-delle-emissioni-di-gas-serra-nei-paesi-europei/m-p/4154238#M13132 I analyzed greenhouse gas emissions and the strategies adopted by EU countries to reduce their emissions. An interactive dashboard was created using Power BI Desktop.
 
